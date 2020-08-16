@@ -2,7 +2,7 @@ import React from 'react';
 import {Link} from 'react-router-dom'
 
 const AboutUs = () => {
-    return <div className='about-us'>
+    return <div className='webpage'>
         <p>Company: Thoughtworks Local</p>
         <p>Location: Xi'an</p>
         <br/>

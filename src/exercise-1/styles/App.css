@@ -22,9 +22,14 @@
     text-decoration: underline;
 }
 
-.home, .my-profile, .about-us{
+.webpage {
     width: 350px;
     margin-top: 30px;
     margin-left: 50px;
     font-size: 20px;
+}
+
+.productLink > * {
+    text-decoration: none;
+    color: red;
 }
